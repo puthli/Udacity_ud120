@@ -15,7 +15,7 @@ The scripts in this repository require a working installation of:
 * [scikit-learn](http://scikit-learn.org/stable/)
 
 
- ## Enron Submission Free-Response Questions!
+# Enron Submission Free-Response Questions!
 
 
 #### Question 1
@@ -112,10 +112,11 @@ Accuracy is important because it gives a fraction of all correct predictions. Ho
 In terms of the performance metrics we should therefore focus on tuning for a high recall.
 
 In my algorithm the scores were:
-Metric  | score  
---|--
-Accuracy  |  0.87553
-Precision  |  0.55019
-Recall  |  0.36450
+
+Metric | score  
+---|---
+Accuracy | 0.87553
+Precision | 0.55019
+Recall | 0.36450
 F1 | 0.43850
 F2 | 0.39088
